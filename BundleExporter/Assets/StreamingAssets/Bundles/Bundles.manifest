@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1499915579
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cat
+      Dependencies: {}
+    Info_1:
+      Name: animatedcube
+      Dependencies: {}
+    Info_2:
+      Name: ferrari
+      Dependencies: {}

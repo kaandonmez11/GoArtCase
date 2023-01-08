@@ -1,0 +1,19 @@
+{
+    "objectDatas": [
+        {
+            "bundleName": "ferrari",
+            "assetName": "SF90",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1SiGH3U-hsyK4JmwejCVIP3tROuhyiyvh"
+        },
+        {
+            "bundleName": "cat",
+            "assetName": "Cat",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1C8rW8q801dzP8impsAcsXhoPqBXYjhWV"
+        },
+        {
+            "bundleName": "animatedcube",
+            "assetName": "Cube",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=13Sa6ojI5HCotVMLHLE_mDAWD7gshRQRM"
+        }
+    ]
+}

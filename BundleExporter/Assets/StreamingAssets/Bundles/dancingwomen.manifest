@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2248338383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7cb26dc25bb75000d283167c01a5d7c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f30a8921ae77e678998c5da47a15b67d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/dancingWomen/Tut Hip Hop Dance.controller
+- Assets/Models/dancingWomen/maria_diffuse.png
+- Assets/Models/dancingWomen/maria_normal.png
+- Assets/Models/dancingWomen/Women.prefab
+- Assets/Models/dancingWomen/danceAnim.anim
+- Assets/Models/dancingWomen/model.fbx
+- Assets/Models/dancingWomen/maria_M1.mat
+- Assets/Models/dancingWomen/maria_specular.png
+Dependencies: []

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026009536497",
+    "project_id": "goartcase",
+    "storage_bucket": "goartcase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026009536497:android:cba9e39ab68b79ff951650",
+        "android_client_info": {
+          "package_name": "com.KaanDonmez.GoArtCase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026009536497-drr701bk3ja7trsqftph7nchptsenu9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnofn99_aEhfytZqyqhqQ5lROYtASh8UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026009536497-drr701bk3ja7trsqftph7nchptsenu9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
