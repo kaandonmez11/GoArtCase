@@ -16,6 +16,6 @@ Buradan mesajlaşabilir veya modeli arkadaşınızla paylaşabilirsiniz. Alttaki
 
 Eğer size başka birisinden bir obje için mesaj gelmişse bu yazıya tıklayabilirsiniz. Direk olarak obje mesajdan gelen linkten yüklenecek ve sizin AR ortamınızda oluşturulacaktır.
 
-[![Video](https://img.youtube.com/vi/s9VSHt_4EbU/0.jpg)](https://www.youtube.com/watch?v=Ys9VSHt_4EbU)
+[![Video](https://img.youtube.com/vi/s9VSHt_4EbU/0.jpg)](https://www.youtube.com/watch?v=s9VSHt_4EbU)
 
 Kaan Donmez 2023
